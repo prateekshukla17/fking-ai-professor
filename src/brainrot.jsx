@@ -33,7 +33,7 @@ export default function Brainrot() {
 
   return (
     <div>
-      <h1>🧠 BRAINROT ACADMEY</h1>
+      <h1>🧠 BRAINROT ACADEMY</h1>
       <p>Enter a topic and get mentally violated by an AI professor.</p>
 
       <div>
